@@ -1,0 +1,123 @@
+{
+    "status": "ok",
+    "totalResults": 70,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "Fox Business"
+            },
+            "author": "Andrea Vacchiano",
+            "title": "Elon Musk predicts crewed SpaceX flights to Mars by 2028, hopes for 'self-sustaining city' on planet - Fox Business",
+            "description": "Elon Musk predicted Saturday that crewed flights to Mars could begin within the next four years, with sustainable human settlements on Mars possibly beginning within two decades.",
+            "url": "https://www.foxbusiness.com/technology/elon-musk-predicts-crewed-spacex-flights-mars-2028-hopes-self-sustaining-city-planet",
+            "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2024/09/0/0/Copy-of-Left-inset-9.png?ve=1&tl=1",
+            "publishedAt": "2024-09-08T00:30:00Z",
+            "content": "SpaceX founder Elon Musk made bold predictions about human life on Mars in a series of social media posts on Saturday.\r\nWriting on X, Musk made the forecasts in response to a post by Bill Ackman prom… [+2571 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Forbes"
+            },
+            "author": "David Phelan",
+            "title": "Apple Watch Series 10 Will Boast Unexpected New Feature, Report Says - Forbes",
+            "description": "With just days to go before the next Apple Watch is unveiled, a new report says that new sensors and a surprise health function will be on board.",
+            "url": "https://www.forbes.com/sites/davidphelan/2024/09/07/apple-watch-series-10-will-boast-unexpected-new-feature-report-says/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/66dccc56ca3e5f6fecf7b54f/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+            "publishedAt": "2024-09-07T22:05:23Z",
+            "content": "The next Apple Watch series will include two models with new sensors, it seems. Apple Watch Series 10 and Apple Watch Ultra 3 are reported to have a new heart rate and ECG sensor. With the result tha… [+2248 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Daily Dot"
+            },
+            "author": "Brooke Sjoberg",
+            "title": "‘The sensor is the brains of your car’: Expert shows what happens when someone steals your car’s sensor - The Daily Dot",
+            "description": "In a video, a car enthusiast and expert shows just how many systems in his 2024 Honda Accord rely on having the sensor present.",
+            "url": "https://www.dailydot.com/news/honda-stolen-car-sensor/",
+            "urlToImage": "https://uploads.dailydot.com/2024/09/stealing-car-sensors.jpg?auto=compress&fm=pjpg",
+            "publishedAt": "2024-09-07T22:00:00Z",
+            "content": "If it’s not nailed down, someone will take it. \r\nWhile most might associate the phrase with retail theft or theft of personal items in the home, it apparently applies to cars too. \r\nFrom catalytic co… [+3137 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Wes Davis",
+            "title": "How to watch Apple’s ‘Glowtime’ iPhone 16 event - The Verge",
+            "description": "Apple is preparing to launch the iPhone 16 and 16 Pro lineup on September 9th, along with release dates for iOS 18 and its Apple Intelligence features.",
+            "url": "https://www.theverge.com/2024/9/7/24238537/apples-glowtime-iphone-16-event-how-to-watch-ios-18-apple-intelligence-ai",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/QWnbiv7GAQgIMG5i1LDGC_ISauU=/0x0:2048x1152/1200x628/filters:focal(1024x576:1025x577)/cdn.vox-cdn.com/uploads/chorus_asset/file/25609115/Glowtime.jpeg",
+            "publishedAt": "2024-09-07T21:58:32Z",
+            "content": "How to watch Apples Glowtime iPhone 16 event\r\nHow to watch Apples Glowtime iPhone 16 event\r\n / Apple will be streaming the event on its website, in the Apple TV app, and on YouTube.\r\nByWes Davis, a w… [+1363 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ComicBook.com"
+            },
+            "author": "Tyler Fischer",
+            "title": "GTA 6 Song Request Turned Down by Musician Offended by $7,500 Offer - ComicBook.com",
+            "description": "Don't expect to hear this song in GTA 6.",
+            "url": "https://comicbook.com/gaming/news/gta-6-grand-theft-auto-vi-rockstar-games-song/",
+            "urlToImage": "https://sportshub.cbsistatic.com/i/2024/09/07/880b8b2c-3ad4-4ab9-8378-725e0e1fdf57/gta-6-edit.png?width=1200",
+            "publishedAt": "2024-09-07T21:58:00Z",
+            "content": "According to musician Martyn Ware, Rockstar Games recently approached them to put one of his songs in Grand Theft Auto 6. That said, the offer-- $7,500 -- left the musician, who turned down the offer… [+1982 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "9to5Mac"
+            },
+            "author": "Michael Burkhardt",
+            "title": "Five things to expect with Apple’s new M4 Mac lineup this fall - 9to5Mac",
+            "description": "Apple is expected to begin unveiling their M4 Mac lineup as soon as October, with updates to the iMac, MacBook...",
+            "url": "https://9to5mac.com/2024/09/07/m4-mac-roundup/",
+            "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/05/OLED-MacBook-Pro-launch-2026.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+            "publishedAt": "2024-09-07T21:30:00Z",
+            "content": "Apple is expected to begin unveiling their M4 Mac lineup as soon as October, with updates to the iMac, MacBook Pro, and Mac mini to start off the new M4 transition. Although the event will probably b… [+2892 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Notebookcheck.net"
+            },
+            "author": "Notebookcheck.net",
+            "title": "Samsung Galaxy S25 Ultra: Leaker delivers good news for fans of thin and narrow flagships as first design render image teased - Notebookcheck.net",
+            "description": null,
+            "url": "https://www.notebookcheck.net/Samsung-Galaxy-S25-Ultra-Leaker-delivers-good-news-for-fans-of-thin-and-narrow-flagships-as-first-design-render-image-teased.885620.0.html",
+            "urlToImage": null,
+            "publishedAt": "2024-09-07T20:05:23Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Jennifer Pattison Tuohy",
+            "title": "Nanoleaf finally launches a smart switch after eight years of trying - The Verge",
+            "description": "The Sense Plus Smart Switch is a physical device that controls your Nanoleaf lights. It works over Litewave and Thread and supports Apple Home and SmartThings through Matter.",
+            "url": "https://www.theverge.com/2024/9/7/24235620/nanoleaf-sense-plus-smart-switch-thread-matter-litewave",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/uTc7r3Dn_m-3-5RUCV6PishhMaw=/0x0:4000x3000/1200x628/filters:focal(2000x1500:2001x1501)/cdn.vox-cdn.com/uploads/chorus_asset/file/25608710/20240906_160644.jpg",
+            "publishedAt": "2024-09-07T20:00:02Z",
+            "content": "Nanoleaf finally launches a smart switch after eight years of trying\r\nNanoleaf finally launches a smart switch after eight years of trying\r\n / The Sense Plus is a wireless switch that controls Nanole… [+5690 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Nikkei.com"
+            },
+            "author": "Staff Writer",
+            "title": "Huawei tri-fold phone receives orders from 1.3 million fans in 7 hours - Nikkei Asia",
+            "description": "Mate XT to be unveiled soon after the iPhone 16 launch next week",
+            "url": "https://asia.nikkei.com/Business/Telecommunication/Huawei-tri-fold-phone-receives-orders-from-1.3-million-fans-in-7-hours",
+            "urlToImage": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fcms-image-bucket-production-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F4%2F8%2F8%2F8%2F48228884-1-eng-GB%2Fphoto_SXM2024090700008895+%281%29_2048x1152.jpg?width=1260&height=630&fit=cover&gravity=faces&source=nar-cms",
+            "publishedAt": "2024-09-07T19:27:00Z",
+            "content": "GUANGZHOU -- Chinese telecom equipment supplier Huawei Technologies' new tri-fold smartphone attracted orders from roughly 1.3 million people within seven hours after the start of reservations.\r\nThe … [+206 chars]"
+        }
+    ]
+}

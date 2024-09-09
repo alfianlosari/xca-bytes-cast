@@ -1,0 +1,123 @@
+{
+    "status": "ok",
+    "totalResults": 66,
+    "articles": [
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Carolyn Hax",
+            "title": "Column | Carolyn Hax: Panicky parents call daily to check on 24-year-old in New York - The Washington Post",
+            "description": "A 24-year-old letter writer wants to enjoy life in the city, but parents spiral when even one daily call goes unanswered.",
+            "url": "https://www.washingtonpost.com/advice/2024/09/08/carolyn-hax-parents-call-daily-new-york/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/E4XHAHRGGZBUXMQ2D5K35Q53RQ.jpg&w=1440",
+            "publishedAt": "2024-09-08T04:30:00Z",
+            "content": "Dear Carolyn: I got my dream job last year and moved to New York City. I found a decent place to live with three compatible roommates and Im figuring things out and loving life.\r\nMy parents, on the o… [+4271 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "SciTechDaily"
+            },
+            "author": "SciTechDaily",
+            "title": "Vision 10,000 Times Better: Gene Therapy Delivers Life-Changing Results - SciTechDaily",
+            "description": null,
+            "url": "https://scitechdaily.com/vision-10000-times-better-gene-therapy-delivers-life-changing-results/",
+            "urlToImage": null,
+            "publishedAt": "2024-09-08T03:36:44Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Scrippsnews.com"
+            },
+            "author": "Scripps News",
+            "title": "Scripps News Reports: Death by heat - AOL",
+            "description": "On this week's episode of Scripps News Reports, we investigate the growing risks of extreme heat, and how they are changing health care and policy priorities...",
+            "url": "https://www.scrippsnews.com/shows/scripps-news-reports/scripps-news-reports-death-by-heat",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/U1E_9JAb3J03AkRB8JjuGw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/aol_newsy_441/64ecd454ed2a88d9f231bb74cb9e05bc",
+            "publishedAt": "2024-09-07T23:00:00Z",
+            "content": "Our planet has a problem, and it's killing us seemingly more than ever before. Deaths from extreme heat have doubled in the past generation and that stunning finding is still likely an undercount of … [+561 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Ed Cara",
+            "title": "‘Gelzempic’ Could Make Popular Weight Loss Drugs Easier to Take - Gizmodo",
+            "description": "Scientists have developed a gel-based version of semaglutide that could reduce how often people need to take it.",
+            "url": "https://gizmodo.com/gelzempic-could-make-popular-weight-loss-drugs-easier-to-take-2000495641",
+            "urlToImage": "https://gizmodo.com/app/uploads/2024/09/Gel.jpg",
+            "publishedAt": "2024-09-07T22:01:35Z",
+            "content": "One of the most popular drugs in recent history could someday become less of a hassle to use. In new research presented Saturday, scientists in France have unveiled a novel hydrogel version of semagl… [+2975 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Daily Meal"
+            },
+            "author": "Allison Lindsey",
+            "title": "The Canned Bean That's Actually One Of The Unhealthiest Veggie Options - Yahoo Life",
+            "description": "Canned veg can be a quick and simple substitute for fresh if you're pushed for time. But there's one bean variety in particular that raises a red flag.",
+            "url": "https://www.thedailymeal.com/1657848/canned-green-beans-unhealthy-sodium-levels/",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/96Ik1ljHUYt4kHfC.BI.ZQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/the_daily_meal_185/58ec2d33b5bb505e0a670f9eaca9eb22",
+            "publishedAt": "2024-09-07T20:45:50Z",
+            "content": "Canned legumes are convenient sources of fiber, protein, and antioxidants. They're pre-cooked, ready to eat, and require less prepping effort than their raw counterparts. Canned green beans, for exam… [+2730 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Christine Rousselle",
+            "title": "Ingredient found in Doritos turns mouse's skin transparent, may have medical applications - Fox News",
+            "description": "A discovery that a common food dye temporarily caused a mouse's skin to appear transparent could have wide-ranging effects on the medical industry, the researcher told Fox News Digital.",
+            "url": "https://www.foxnews.com/food-drink/ingredient-found-doritos-turns-mouses-skin-transparent-medical-applications",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/09/mice-tartrazine.jpg",
+            "publishedAt": "2024-09-07T19:44:00Z",
+            "content": "Scientists at Stanford University were recently able to make a mouse's skin transparent using a common food dye, something the study's author told Fox News Digital could have exciting benefits to hum… [+3444 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Carma Hassan",
+            "title": "US’ first human case of bird flu not linked to animals reported in Missouri - CNN",
+            "description": "A person in Missouri is the United States’ first case of H5 avian influenza without a known exposure to a sick animal, the US Centers for Disease Control and Prevention said on Friday.",
+            "url": "https://www.cnn.com/2024/09/06/health/first-human-case-of-bird-flu-not-linked-to-animals/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/ap24250773808774.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2024-09-07T19:33:00Z",
+            "content": "A person in Missouri is the United States first case of H5 avian influenza without a known exposure to a sick animal, the US Centers for Disease Control and Prevention said on Friday.\r\nThis is the 14… [+1757 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Ian McMahan",
+            "title": "Only 61 percent of teens have been fully vaccinated against HPV - The Washington Post",
+            "description": "If used before HPV exposure, the completed vaccination series can protect against 92 percent of cancers associated with the virus.",
+            "url": "https://www.washingtonpost.com/health/2024/09/07/teens-hpv-vaccination-cancer-prevention/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/3JM7X2WTUBH3JNUH4AA6EIETWI.jpg&w=1440",
+            "publishedAt": "2024-09-07T18:08:56Z",
+            "content": "61\r\nOnly 61 percent of U.S. 13-to-17-year-olds have been fully vaccinated against the human papillomavirus (HPV), according to research published last month by the Centers for Disease Control and Pre… [+1758 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "PsyPost"
+            },
+            "author": "Natalina Salmaso",
+            "title": "5 myths about antidepressants you should stop believing - PsyPost",
+            "description": "Debunking common myths about antidepressants is essential for helping individuals make informed choices about treatment options, ensuring decisions are based on facts rather than misconceptions.",
+            "url": "https://www.psypost.org/5-myths-about-antidepressants-you-should-stop-believing/",
+            "urlToImage": "https://www.psypost.org/wp-content/uploads/2022/09/pills.jpg",
+            "publishedAt": "2024-09-07T18:07:29Z",
+            "content": "During my work as a clinical psychologist and neurobiologist, I have spoken with many individuals who are considering taking antidepressant medications such as selective serotonin reuptake inhibitors… [+6918 chars]"
+        }
+    ]
+}

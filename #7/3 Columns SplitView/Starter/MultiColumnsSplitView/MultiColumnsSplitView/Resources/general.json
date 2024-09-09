@@ -1,0 +1,123 @@
+{
+    "status": "ok",
+    "totalResults": 38,
+    "articles": [
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Raja Razek, Emma Tucker",
+            "title": "Manhunt underway after 5 people injured in Kentucky shooting near Interstate 75, officials say - CNN",
+            "description": "Several people have been shot near Interstate 75 in Laurel County, Kentucky, according to the Laurel County Sheriff’s office.",
+            "url": "https://www.cnn.com/2024/09/07/us/kentucky-interstate-75-shooting/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/ap24252007029495.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2024-09-08T06:22:30Z",
+            "content": "A manhunt is underway for a suspect after five people were injured in a shooting Saturday near an interstate in a rural area of Laurel County, Kentucky, located south of Lexington, according to the s… [+4522 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": null,
+            "title": "Venezuelan opposition candidate Edmundo Gonzalez leaves the country for Spain - CNN",
+            "description": "Venezuelan opposition leader Edmundo Gonzalez has left the country en route to Spain, according to both nations’ governments, after an arrest warrant was issued last week accusing him of terrorism, conspiracy and other crimes related to July’s disputed presid…",
+            "url": "https://www.cnn.com/2024/09/08/americas/venezuela-opposition-candidate-gonzalez-spain-intl-hnk/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/2024-09-08t031811z-213231949-rc2g49a8p6vw-rtrmadp-3-venezuela-election.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2024-09-08T05:56:00Z",
+            "content": "Venezuelan opposition leader Edmundo Gonzalez has left the country en route to Spain, according to both nations governments, after an arrest warrant was issued last week accusing him of terrorism, co… [+2293 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Nick Bromberg",
+            "title": "Northern Illinois stuns No. 5 Notre Dame for first-ever win over a top-10 team - Yahoo Sports",
+            "description": "NIU got a field goal with 31 seconds left.",
+            "url": "https://sports.yahoo.com/northern-illinois-stuns-no-5-notre-dame-for-first-ever-win-over-a-top-10-team-224835461.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/4GIblnd6BsTkKMmcVXm35Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2024-08/1d626290-6d6b-11ef-97fb-467bfde00168",
+            "publishedAt": "2024-09-08T05:12:32Z",
+            "content": "Northern Illinois stunned No. 5 Notre Dame 16-14 with a late field goal by Kanon Woodill on Saturday.\r\nWoodill kicked a 36-yard field goal with 31 seconds left as Notre Dame couldnt stop the Huskies … [+4131 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "Lindsey Bahr",
+            "title": "‘The Room Next Door' tops Venice Film Festival. Nicole Kidman misses acting honor due to mom’s death - The Associated Press",
+            "description": "Pedro Almodóvar’s “The Room Next Door” won the Venice Film Festival’s Golden Lion award Saturday. The film, which is Almodóvar’s English-language debut and stars Julianne Moore and Tilda Swinton, took home the top honor. Nicole Kidman won the best actress awa…",
+            "url": "https://apnews.com/article/venice-film-festival-awards-81st-b8cfca5a2170e5288b9ce7b3e03e91ef",
+            "urlToImage": "https://dims.apnews.com/dims4/default/87dd4c8/2147483647/strip/true/crop/4344x2444+0+226/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F4e%2Fbe%2F540290c821ea64fcfaf32d5ba0e2%2F68cad8afd6c2449992dae4ae85cb5a24",
+            "publishedAt": "2024-09-08T05:06:00Z",
+            "content": "VENICE, Italy (AP) The Room Next Door, Pedro Almodóvars English-language debut starring Julianne Moore and Tilda Swinton, topped the Venice Film Festival and was awarded its Golden Lion award Saturda… [+4552 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hollywood Reporter"
+            },
+            "author": "Jourdain Searles",
+            "title": "‘On Swift Horses’ Review: Jacob Elordi and Daisy Edgar-Jones Light Up the Screen in a Ravishing Queer Epic - Hollywood Reporter",
+            "description": "The actors co-star with Will Poulter, Diego Calva and Sasha Calle in Daniel Minahan's 1950s-set romantic drama about secret yearnings and societal pressures.",
+            "url": "http://www.hollywoodreporter.com/movies/movie-reviews/on-swift-horses-review-jacob-elordi-and-daisy-edgar-jones-1235994968/",
+            "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2024/08/OSH-Publicity-Still-1-Revised-H-2024.jpg?w=1296&h=730&crop=1",
+            "publishedAt": "2024-09-08T04:16:37Z",
+            "content": "On Swift Horses begins by showing us two images: sex and a deck of cards. \r\nMuriel (Daisy Edgar-Jones) is making love to Lee (Will Poulter), a soldier on leave from Korea. Meanwhile, Lee’s brother Ju… [+4033 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "KOMO News"
+            },
+            "author": "Karina Vargas, KOMO News Reporter",
+            "title": "Community rallies to honor, demand justice for UW grad slain at protest in West Bank - KOMO News",
+            "description": "A day after a 26-year-old American woman was fatally shot while demonstrating against settlements in the West Bank, hundreds gathered in Westlake Park and march",
+            "url": "https://komonews.com/news/local/aysenur-ezgi-eygi-hundreds-march-after-uw-graduate-killed-during-protest-in-west-bank-washington-community-seattle-peace-american-west-bank-psychology-activist-israel-gaza-hamas-palestinian",
+            "urlToImage": "https://komonews.com/resources/media2/16x9/859/986/420x186/90/6855ed56-ff92-477d-9e0d-9f23ae7c1f10-PKGMARCHFOREYGI.transfer_frame_4136.jpeg",
+            "publishedAt": "2024-09-08T03:21:27Z",
+            "content": "SEATTLE A day after a 26-year-old American woman was fatally shot while demonstrating against settlements in the West Bank, hundreds gathered in Westlake Park and marched the streets of Seattle.\r\nAys… [+1844 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Jim Axelrod, Paul LaRosa, Dena Goldstein",
+            "title": "What led former ballerina Ashley Benefield to fatally shoot her husband? - CBS News",
+            "description": "Ashley Benefield, dubbed the \"Black Swan,\" took the stand in her own defense during her trial for the murder of her estranged husband. Prosecutors say she killed Doug Benefield so she would have sole custody of their daughter.",
+            "url": "https://www.cbsnews.com/news/ashley-benefield-doug-benefield-black-swan-ballerina-murder-trial-testimony-48-hours/",
+            "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2021/09/07/16a9d842-ea3c-4e79-946f-88c3be9781b2/thumbnail/1200x630/ac5ac781b2c64ccd4d453ffd8eede427/benefield-07.jpg?v=631cf5f2b4e8db7f9bc428589402864d",
+            "publishedAt": "2024-09-08T02:00:00Z",
+            "content": "After nearly four years, the trial of Ashley Benefield, the former ballerina charged with second-degree murder for shooting her estranged husband Doug, began in the summer of 2024. In the lead-up to … [+33253 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Eonline.com"
+            },
+            "author": null,
+            "title": "Ashley Tisdale Gives Birth, Welcomes Baby No. 2 With Husband Christopher French - E! Online - E! NEWS",
+            "description": "High School Musical's Ashley Tisdale gave birth to her second child with husband Christopher French. The couple also share Jupiter, 3.",
+            "url": "https://www.eonline.com/news/1404760/ashley-tisdale-gives-birth-welcomes-baby-no-2-with-husband-christopher-french",
+            "urlToImage": "https://akns-images.eonline.com/eol_images/Entire_Site/202469/rs_1200x1200-240709164037-439411724_18437584744014200_3494985201159768314_n_copy.jpg?fit=around%7C1080:1080&output-quality=90&crop=1080:1080;center,top",
+            "publishedAt": "2024-09-08T00:25:00Z",
+            "content": "Ashley Tisdale is bopping to the top of motherhood.\r\nThe High School Musical alum welcomed her second child with husband Christopher French Sept. 6.\r\n\"Emerson Clover French,\" the proud mom wrote on I… [+988 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Sarah Rumpf-Whitten",
+            "title": "Georgia high school shooting: Suspect's former neighbors recount harrowing stories of alleged abuse, chaos - Fox News",
+            "description": "The former neighbors of the suspected Apalachee High School shooter discussed the Gray family, with neighbors recounting harrowing stories of alleged abuse.",
+            "url": "https://www.foxnews.com/us/georgia-high-school-shooting-suspects-former-neighbors-recount-harrowing-stories-alleged-abuse-chaos",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/09/Thumb-1Wall.jpg",
+            "publishedAt": "2024-09-08T00:19:00Z",
+            "content": "STATHAM, Ga The former neighbors of the suspected Georgia high school shooter shared a glimpse into the family's chaotic home.\r\nFox News Digital spoke with the neighbors of 14-year-old Colt Gray in S… [+4635 chars]"
+        }
+    ]
+}
