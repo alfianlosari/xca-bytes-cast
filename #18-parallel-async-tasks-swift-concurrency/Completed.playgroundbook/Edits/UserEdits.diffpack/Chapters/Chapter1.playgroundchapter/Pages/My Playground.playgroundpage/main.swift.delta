@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Diff</key>
+	<array>
+		<dict>
+			<key>ModifiedContent</key>
+			<string>import Foundation
+import PlaygroundSupport
+
+PlaygroundPage.current.needsIndefiniteExecution = true
+
+Task {
+    
+//     1. Async Let
+//    await AsyncLetPlayground.run()
+    
+//     2. Task Group
+//    await TaskGroupPlayground.run()
+//    await TaskGroupPlayground.run2()
+    
+//     3. Throwing Task Group
+//        await ThrowingTaskGroupPlayground.run()
+//    await ThrowingTaskGroupPlayground.run2()
+
+//    4. Discarding Task Group
+//    await DiscardingTaskGroupPlayground.run()
+    
+//    5. Throwing Discarding Task Group
+    await ThrowingDiscardingTaskGroupPlayground.run()
+    
+}
+
+
+</string>
+			<key>ModifiedRange</key>
+			<string>{1, 592}</string>
+			<key>OriginalContent</key>
+			<string></string>
+			<key>OriginalRange</key>
+			<string>{1, 0}</string>
+		</dict>
+	</array>
+	<key>File</key>
+	<string>Chapters/Chapter1.playgroundchapter/Pages/My Playground.playgroundpage/main.swift</string>
+</dict>
+</plist>
